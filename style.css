@@ -18,10 +18,10 @@ div {
 }
 section {
   display: inline-block;
-  border: solid pink;
+  /* border: solid pink; */
 }
 .navigation-menu {
-  border: solid purple;
+  /*border: solid purple;*/
 }
 nav li {
   display: inline;
@@ -31,7 +31,7 @@ nav li {
 nav {
   display: inline;
   padding-left: 30vw;
-  border: solid grey;
+  /*border: solid grey;*/
 }
 .logo {
   padding-top: 2vh;
@@ -52,17 +52,17 @@ main {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
-  border: solid green;
+  /*border: solid green;*/
 }
 .main-logo {
   display: inline-block;
   padding-top: 40vh;
   margin-left: 40vw;
-  border: solid blue;
+  /*border: solid blue;*/
 }
 .main-logo img {
   width: 20vw;
-  border: solid;
+  /*border: solid;*/
 }
 .main-buttom img {
   width: 15vw;
